@@ -11,7 +11,7 @@ A simple comment system with backend support fork from [Valine](https://valine.j
 
 English | [中文](https://github.com/walinejs/waline/blob/main/README_CN.md) | **View Documentation:** <https://waline.js.org/en/>
 
-## Feature
+## Feature.  
 
 - Fast
 - **Really** Safe
